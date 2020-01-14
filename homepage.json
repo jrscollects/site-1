@@ -1,4 +1,14 @@
 {
+	"400": [
+		"Medical Officesz",
+		"Medical Office zExperts?"
+	],
+	"401": "We understand what you need..z",
+	"402": "Medical Offices:",
+	"403": "Not just any janitorial service can take on medical office cleaning jobs. Unlike janitorial cleaning for other kinds of offices and buildings, healthcare facility cleaning and medical office cleaning require specialized training and equipment in order to be done right.z",
+	"404": "Hygenic Solutions meets or exceeds medical office cleaning standards set by OSHA, CDC, and AORN. Medical offices contain illness-causing germs that can spread through a medical office for days. A janitorial service that provides a hygienic focused approach can assist in reducing the spread of infectious disease and illness causing germs.z",
+	"405": "The Hygic-Clean system, offered by Hygenic Solutions, consists of specialized training, hospital grade disinfectants, state of the art equipment including micro-fiber technology; HEPA vacuums with four levels of filtration and a focus on touch surface disinfection.z",
+	"406": "Our experience includes servicing all types of medical offices. The medical office cleaning provided by Hygenic Solutions is superior and competitively priced. If you desire to receive a janitorial service built for the medical environment, we are your service provider of trust!z",
 	"company_name": " Hygenic Solutions LLC ",
 	"company_cities": "  San Fernando Valley \n        - Santa Clarita Valley - Simi Valley\n        Surrounding Areas",
 	"header_telephone": "818-821-0339",
@@ -151,5 +161,9 @@
 	"editable1121b": " Office Hours ",
 	"editable1122b": "  Monday-Friday",
 	"editable1123b": " 8:00 AM to 5:00  PM",
-	"editable1124b": "  Saturday"
+	"editable1124b": "  Saturday",
+	"_header_company_name": " Hygenic Solutions LLC ",
+	"_header_company_cities": " San Fernando Valley \n          - Santa Clarita Valley - Simi Valley\n          Surrounding Areas",
+	"header_tel_line": "Call Now",
+	"header_line": "\"Where Image & Hygiene Matter\""
 }
